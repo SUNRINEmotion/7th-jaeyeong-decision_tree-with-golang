@@ -1,1 +1,1 @@
-# Emotion-7th-decision_tree-wiht-golang
+# 의사결정트리를 go언어로 구현한 프로젝트입니다
